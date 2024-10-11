@@ -8,8 +8,9 @@ Key Features
 -Code comments and documentation for better understanding
 -Getting Started
 Clone the repository:
-bash
-```git clone https://github.com/leanrdjombo/DAA.git```
+```bash
+  git clone https://github.com/leanrdjombo/DAA.git
+```
 Explore the folders to view algorithm implementations and analyses.
 Requirements
 Java Development Kit (JDK) 8 or later
