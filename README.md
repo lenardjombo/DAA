@@ -18,8 +18,8 @@ Java Development Kit (JDK) 8 or later
 **Contributing**
 Contributions are welcome! If you'd like to contribute:
 
--Fork the repository.
--Create a new branch for your feature or bug fix:
+Fork the repository.
+Create a new branch for your feature or bug fix:
 ```bash
 git checkout -b feature-branch-name
 ```
