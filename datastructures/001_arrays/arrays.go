@@ -5,6 +5,7 @@ package arrays
 
 import (
 	"fmt"
+	"sort"
 )
 // Defining array - syntax
 var ages  = [10]int{1,2,3,4,5,6,7,8,9,10}
@@ -50,4 +51,11 @@ func SearchElement(arr []int, target int) int {
 }
 
 // 5. Sorting the Array (Ascending)
-// To Do
+func main() {
+	nums := []int{5, 3, 8, 1, 2}
+
+	// Sort in ascending order
+	sort.Ints(nums)
+
+	fmt.Println("Sorted array:", nums)
+}
